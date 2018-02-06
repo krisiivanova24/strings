@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\unicodeSymbols\bin\Debug\unicodeSymbols.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\unicodeSymbols\bin\Debug\unicodeSymbols.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\unicodeSymbols\bin\Debug\unicodeSymbols.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\unicodeSymbols\obj\Debug\unicodeSymbols.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\unicodeSymbols\obj\Debug\unicodeSymbols.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\unicodeSymbols\obj\Debug\unicodeSymbols.pdb

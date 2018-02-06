@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\fromNto10\obj\Debug\fromNto10.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\fromNto10\bin\Debug\fromNto10.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\fromNto10\bin\Debug\fromNto10.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\fromNto10\bin\Debug\fromNto10.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\fromNto10\obj\Debug\fromNto10.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\stringove\fromNto10\obj\Debug\fromNto10.pdb

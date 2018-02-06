@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ot10ichna", "ot10ichna\ot10ichna.csproj", "{684606F0-D817-466D-8589-08DC9818CB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fromNto10", "fromNto10\fromNto10.csproj", "{BE6E4D44-74B9-4F47-82B2-CE0B1CBCBD10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unicodeSymbols", "unicodeSymbols\unicodeSymbols.csproj", "{C4F11B48-DFB2-4409-9763-FC4E71065ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684606F0-D817-466D-8589-08DC9818CB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684606F0-D817-466D-8589-08DC9818CB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684606F0-D817-466D-8589-08DC9818CB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684606F0-D817-466D-8589-08DC9818CB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6E4D44-74B9-4F47-82B2-CE0B1CBCBD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6E4D44-74B9-4F47-82B2-CE0B1CBCBD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6E4D44-74B9-4F47-82B2-CE0B1CBCBD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6E4D44-74B9-4F47-82B2-CE0B1CBCBD10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F11B48-DFB2-4409-9763-FC4E71065ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F11B48-DFB2-4409-9763-FC4E71065ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F11B48-DFB2-4409-9763-FC4E71065ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F11B48-DFB2-4409-9763-FC4E71065ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
